@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springcloud-eureka-config" />
+        <module name="springcloud-eureka-config-server" />
+        <module name="springcloud-eureka-feign-api-member-service" />
+        <module name="springcloud-eureka-feign-api-order-service" />
+        <module name="springcloud-eureka-feign-member-common" />
+        <module name="springcloud-eureka-feign-member-service-impl" />
+        <module name="springcloud-eureka-feign-order-common" />
+        <module name="springcloud-eureka-feign-order-service-impl" />
+        <module name="springcloud-eureka-gateway" />
+        <module name="springcloud-eureka-server" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="springcloud-eureka-config" target="1.8" />
+      <module name="springcloud-eureka-config-server" target="1.8" />
+      <module name="springcloud-eureka-feign-api" target="1.8" />
+      <module name="springcloud-eureka-feign-api-member-service" target="1.8" />
+      <module name="springcloud-eureka-feign-api-member-service-impl" target="1.8" />
+      <module name="springcloud-eureka-feign-api-order-service" target="1.8" />
+      <module name="springcloud-eureka-feign-common" target="1.8" />
+      <module name="springcloud-eureka-feign-manager" target="1.8" />
+      <module name="springcloud-eureka-feign-member-common" target="1.8" />
+      <module name="springcloud-eureka-feign-member-service-impl" target="1.8" />
+      <module name="springcloud-eureka-feign-order-common" target="1.8" />
+      <module name="springcloud-eureka-feign-order-service-impl" target="1.8" />
+      <module name="springcloud-eureka-feign-parent" target="1.8" />
+      <module name="springcloud-eureka-gateway" target="1.8" />
+      <module name="springcloud-eureka-server" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

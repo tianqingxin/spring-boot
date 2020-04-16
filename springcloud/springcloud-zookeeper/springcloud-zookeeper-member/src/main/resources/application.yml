@@ -1,0 +1,9 @@
+server:
+  port: 8300
+
+spring:
+  application:
+    name: zk-member
+  cloud:
+    zookeeper:
+      connect-string: localhost:2181

@@ -1,0 +1,17 @@
+server:
+  port: 9100
+#服务的上下文，当注册到eureka注册中心时，则为服务的service_id
+spring:
+  application:
+    name: eureka-server
+eureka:
+  instance:
+    hostname: 127.0.0.1
+  client:
+    service-url:
+      #      其他集群节点的地址，多个集群以,隔开
+      defaultZone: http://127.0.0.1:9100/eureka/
+    register-with-eureka: false
+    fetch-registry: false
+  server:
+    enable-self-preservation: false

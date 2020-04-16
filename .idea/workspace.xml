@@ -1,0 +1,1284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="00c2ea59-8428-4568-84ac-138e7a4474ce" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__com_sun_jersey_jersey_client_1_18_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__com_sun_jersey_jersey_core_1_18_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_8_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__commons_net_commons_net_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__javax_activation_activation_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__javax_mail_mail_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__javax_ws_rs_javax_ws_rs_api_2_0_m04.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_glassfish_hk2_auto_depends_1_6_32.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_glassfish_hk2_external_asm_all_repackaged_1_6_32.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_glassfish_hk2_external_javax_inject_1_6_32.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_glassfish_hk2_hk2_api_1_6_32.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_glassfish_hk2_osgi_resource_locator_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_glassfish_jersey_core_jersey_common_2_0_m03.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_jvnet_tiger_types_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/Jeebase.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__cglib_cglib_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__com_alibaba_druid_1_1_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__com_alibaba_easyexcel_1_1_2_beta5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__com_alibaba_fastjson_1_2_56.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__com_aliyun_aliyun_java_sdk_core_3_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__com_aliyun_aliyun_java_sdk_dysmsapi_1_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__com_auth0_java_jwt_3_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__com_baidu_aip_java_sdk_4_10_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__com_baomidou_mybatis_plus_3_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__com_baomidou_mybatis_plus_annotation_3_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__com_baomidou_mybatis_plus_boot_starter_3_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__com_baomidou_mybatis_plus_core_3_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__com_baomidou_mybatis_plus_extension_3_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__com_baomidou_mybatis_plus_generator_3_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__com_belerweb_pinyin4j_2_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__com_caucho_hessian_4_0_60.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__com_fasterxml_classmate_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__com_github_ben_manes_caffeine_caffeine_2_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__com_github_t3hnar_scala_bcrypt_2_10_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__com_github_virtuald_curvesapi_1_04.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__com_google_code_gson_gson_2_8_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__com_google_guava_failureaccess_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__com_google_guava_guava_27_0_1_jre.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__com_google_guava_listenablefuture_9999_0_empty_to_avoid_conflict_with_guava.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__com_qiniu_qiniu_java_sdk_7_2_28.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__com_squareup_okhttp3_okhttp_3_14_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__com_squareup_okio_okio_1_17_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__com_sun_mail_javax_mail_1_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__com_xuxueli_xxl_job_core_2_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__com_xuxueli_xxl_registry_client_1_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__com_xuxueli_xxl_rpc_core_1_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__com_zaxxer_HikariCP_3_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_9_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__commons_codec_commons_codec_1_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__commons_collections_commons_collections_3_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__commons_httpclient_commons_httpclient_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__commons_lang_commons_lang_2_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__commons_logging_commons_logging_1_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__de_ruedigermoeller_fst_2_57.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__io_netty_netty_all_4_1_38_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__io_springfox_springfox_core_2_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__io_springfox_springfox_schema_2_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__io_springfox_springfox_spi_2_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__io_springfox_springfox_spring_web_2_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__io_springfox_springfox_swagger2_2_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__io_springfox_springfox_swagger_common_2_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__io_springfox_springfox_swagger_ui_2_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__io_swagger_swagger_annotations_1_5_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__io_swagger_swagger_models_1_5_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__javax_activation_activation_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__jline_jline_2_14_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_47.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_9_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__net_oschina_j2cache_j2cache_core_2_7_6_release.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__net_oschina_j2cache_j2cache_spring_boot_starter_2_7_6_release.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__net_sf_ehcache_ehcache_2_10_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__org_apache_ant_ant_1_9_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__org_apache_ant_ant_launcher_1_9_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__org_apache_commons_commons_collections4_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__org_apache_commons_commons_math3_3_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__org_apache_geronimo_specs_geronimo_javamail_1_4_spec_1_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_11_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_11_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__org_apache_poi_poi_4_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__org_apache_poi_poi_ooxml_3_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__org_apache_poi_poi_ooxml_schemas_3_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__org_apache_shiro_shiro_cache_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__org_apache_shiro_shiro_config_core_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__org_apache_shiro_shiro_config_ogdl_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__org_apache_shiro_shiro_core_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__org_apache_shiro_shiro_crypto_cipher_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__org_apache_shiro_shiro_crypto_core_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__org_apache_shiro_shiro_crypto_hash_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__org_apache_shiro_shiro_event_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__org_apache_shiro_shiro_lang_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__org_apache_shiro_shiro_spring_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__org_apache_shiro_shiro_web_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__org_apache_velocity_velocity_1_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__org_apache_xmlbeans_xmlbeans_2_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__org_attoparser_attoparser_2_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__org_checkerframework_checker_qual_2_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__org_codehaus_groovy_groovy_2_5_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__org_freemarker_freemarker_2_3_28.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_17_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__org_javassist_javassist_3_21_0_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__org_json_json_20160212.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__org_jsoup_jsoup_1_11_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__org_mapstruct_mapstruct_1_2_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__org_mindrot_jbcrypt_0_3m.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__org_mybatis_mybatis_3_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__org_mybatis_mybatis_spring_2_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__org_objenesis_objenesis_2_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__org_ow2_asm_asm_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__org_reflections_reflections_0_9_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__org_scala_lang_scala_library_2_10_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_cache_2_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_mail_2_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_thymeleaf_2_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_1_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__org_springframework_data_spring_data_keyvalue_2_1_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__org_springframework_data_spring_data_redis_2_1_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_core_1_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_metadata_1_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__org_springframework_spring_aop_5_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__org_springframework_spring_beans_5_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__org_springframework_spring_context_5_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__org_springframework_spring_context_support_5_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__org_springframework_spring_core_5_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__org_springframework_spring_expression_5_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__org_springframework_spring_jdbc_5_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__org_springframework_spring_oxm_5_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__org_springframework_spring_tx_5_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__org_springframework_spring_web_5_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__org_springframework_spring_webmvc_5_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__org_thymeleaf_extras_thymeleaf_extras_java8time_3_0_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__org_thymeleaf_thymeleaf_3_0_11_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__org_thymeleaf_thymeleaf_spring5_3_0_11_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__org_unbescape_unbescape_1_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__org_yaml_snakeyaml_1_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__redis_clients_jedis_2_9_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/libraries/Maven__xml_apis_xml_apis_1_4_01.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jeebase/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__com_101tec_zkclient_0_7.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__com_101tec_zkclient_0_7.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__com_alibaba_druid_1_1_9.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__com_alibaba_druid_1_1_9.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__com_alibaba_druid_spring_boot_starter_1_1_9.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__com_alibaba_druid_spring_boot_starter_1_1_9.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__com_alibaba_dubbo_2_6_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__com_alibaba_dubbo_2_6_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__com_alibaba_fastjson_1_2_47.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__com_alibaba_fastjson_1_2_47.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__com_fasterxml_classmate_1_4_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__com_fasterxml_classmate_1_4_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_8.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_8.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_8.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_8.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_8.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_8.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_joda_2_9_8.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_joda_2_9_8.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_8.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_8.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_8.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_8.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__com_github_sgroschupf_zkclient_0_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__com_github_sgroschupf_zkclient_0_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__com_google_guava_guava_20_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__com_google_guava_guava_20_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__com_zaxxer_HikariCP_3_2_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__com_zaxxer_HikariCP_3_2_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__commons_codec_commons_codec_1_11.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__commons_codec_commons_codec_1_11.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__io_dubbo_springboot_spring_boot_starter_dubbo_1_0_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__io_dubbo_springboot_spring_boot_starter_dubbo_1_0_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__io_lettuce_lettuce_core_5_1_4_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__io_lettuce_lettuce_core_5_1_4_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__io_netty_netty_3_7_0_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__io_netty_netty_3_7_0_Final.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__io_netty_netty_buffer_4_1_33_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__io_netty_netty_buffer_4_1_33_Final.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__io_netty_netty_codec_4_1_33_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__io_netty_netty_codec_4_1_33_Final.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__io_netty_netty_common_4_1_33_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__io_netty_netty_common_4_1_33_Final.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__io_netty_netty_handler_4_1_33_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__io_netty_netty_handler_4_1_33_Final.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__io_netty_netty_resolver_4_1_33_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__io_netty_netty_resolver_4_1_33_Final.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__io_netty_netty_transport_4_1_33_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__io_netty_netty_transport_4_1_33_Final.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__io_projectreactor_reactor_core_3_2_6_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__io_projectreactor_reactor_core_3_2_6_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__io_springfox_springfox_core_2_9_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__io_springfox_springfox_core_2_9_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__io_springfox_springfox_schema_2_9_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__io_springfox_springfox_schema_2_9_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__io_springfox_springfox_spi_2_9_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__io_springfox_springfox_spi_2_9_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__io_springfox_springfox_spring_web_2_9_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__io_springfox_springfox_spring_web_2_9_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__io_springfox_springfox_swagger2_2_9_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__io_springfox_springfox_swagger2_2_9_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__io_springfox_springfox_swagger_common_2_9_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__io_springfox_springfox_swagger_common_2_9_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__io_springfox_springfox_swagger_ui_2_9_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__io_springfox_springfox_swagger_ui_2_9_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__io_swagger_swagger_annotations_1_5_20.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__io_swagger_swagger_annotations_1_5_20.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__io_swagger_swagger_models_1_5_20.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__io_swagger_swagger_models_1_5_20.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__javax_persistence_persistence_api_1_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__javax_persistence_persistence_api_1_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__jline_jline_0_9_94.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__jline_jline_0_9_94.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__joda_time_joda_time_2_10_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__joda_time_joda_time_2_10_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__log4j_log4j_1_2_16.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__log4j_log4j_1_2_16.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_15.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_15.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_9_10.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_9_10.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_9_10.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_9_10.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_7.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_7.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_6_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_6_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_7.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_7.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_11.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_11.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_11_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_11_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_11_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_11_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_16.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_16.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_16.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_16.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_16.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_16.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_4_6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_4_6.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_assertj_assertj_core_3_11_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_assertj_assertj_core_3_11_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_14_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_14_Final.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_javassist_javassist_3_20_0_GA.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_javassist_javassist_3_20_0_GA.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_mapstruct_mapstruct_1_2_0_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_mapstruct_mapstruct_1_2_0_Final.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_mockito_mockito_core_2_23_4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_mockito_mockito_core_2_23_4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_mybatis_mybatis_3_4_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_mybatis_mybatis_3_4_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_1_3_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_1_3_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_1_3_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_1_3_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_projectlombok_lombok_1_16_18.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_projectlombok_lombok_1_16_18.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_25.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_25.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_1_3_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_1_3_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_1_3_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_1_3_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_1_3_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_1_3_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_redis_2_1_3_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_redis_2_1_3_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_1_3_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_1_3_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_1_3_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_1_3_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_1_3_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_1_3_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_1_3_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_1_3_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_1_3_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_1_3_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_1_3_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_1_3_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_1_3_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_1_3_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_1_3_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_1_3_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_1_5_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_1_5_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_springframework_data_spring_data_keyvalue_2_1_5_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_springframework_data_spring_data_keyvalue_2_1_5_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_springframework_data_spring_data_redis_2_1_5_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_springframework_data_spring_data_redis_2_1_5_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_core_1_2_0_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_core_1_2_0_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_metadata_1_2_0_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_metadata_1_2_0_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_springframework_session_spring_session_core_2_1_4_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_springframework_session_spring_session_core_2_1_4_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_springframework_session_spring_session_data_redis_2_1_2_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_springframework_session_spring_session_data_redis_2_1_2_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_springframework_spring_aop_5_1_5_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_springframework_spring_aop_5_1_5_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_springframework_spring_beans_5_1_5_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_springframework_spring_beans_5_1_5_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_springframework_spring_context_5_1_5_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_springframework_spring_context_5_1_5_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_springframework_spring_context_support_5_1_5_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_springframework_spring_context_support_5_1_5_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_springframework_spring_core_5_1_5_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_springframework_spring_core_5_1_5_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_springframework_spring_expression_5_1_5_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_springframework_spring_expression_5_1_5_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_5_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_5_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_springframework_spring_jdbc_5_1_5_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_springframework_spring_jdbc_5_1_5_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_springframework_spring_oxm_5_1_5_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_springframework_spring_oxm_5_1_5_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_springframework_spring_test_5_1_5_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_springframework_spring_test_5_1_5_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_springframework_spring_tx_5_1_5_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_springframework_spring_tx_5_1_5_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_springframework_spring_web_5_1_5_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_springframework_spring_web_5_1_5_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_springframework_spring_webmvc_5_1_5_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_springframework_spring_webmvc_5_1_5_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_6_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_6_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_yaml_snakeyaml_1_23.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__org_yaml_snakeyaml_1_23.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__redis_clients_jedis_2_9_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__redis_clients_jedis_2_9_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__tk_mybatis_mapper_base_1_0_4_beta1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__tk_mybatis_mapper_base_1_0_4_beta1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__tk_mybatis_mapper_core_1_0_4_beta1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__tk_mybatis_mapper_core_1_0_4_beta1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__tk_mybatis_mapper_extra_1_0_4_beta1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__tk_mybatis_mapper_extra_1_0_4_beta1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__tk_mybatis_mapper_spring_1_0_4_beta1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__tk_mybatis_mapper_spring_1_0_4_beta1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__tk_mybatis_mapper_spring_boot_autoconfigure_2_0_3_beta1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__tk_mybatis_mapper_spring_boot_autoconfigure_2_0_3_beta1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__tk_mybatis_mapper_spring_boot_starter_2_0_3_beta1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__tk_mybatis_mapper_spring_boot_starter_2_0_3_beta1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__tk_mybatis_mapper_weekend_1_1_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/libraries/Maven__tk_mybatis_mapper_weekend_1_1_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Industrial_Internet/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Industrial_Internet/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/.env" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/.env.preview" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/.prettierrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/README.zh-CN.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/babel.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/docs/add-page-loading-animate.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/docs/load-on-demand.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/docs/multi-tabs.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/docs/webpack-bundle-analyzer.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/jest.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/jsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/public/avatar2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/public/color.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/public/loading/loading.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/public/loading/loading.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/public/loading/option2/html_code_segment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/public/loading/option2/loading.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/public/loading/option2/loading.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/public/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/App.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/api/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/api/login.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/api/manage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/api/system/common/dict.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/api/system/common/log.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/api/system/organization.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/api/system/resource.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/api/system/role.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/api/system/user.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/assets/background.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/assets/icons/bx-analyse.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/assets/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/assets/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/components/ArticleListContent/ArticleListContent.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/components/ArticleListContent/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/components/AvatarList/Item.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/components/AvatarList/List.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/components/AvatarList/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/components/AvatarList/index.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/components/AvatarList/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/components/Charts/Bar.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/components/Charts/ChartCard.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/components/Charts/Liquid.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/components/Charts/MiniArea.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/components/Charts/MiniBar.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/components/Charts/MiniProgress.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/components/Charts/MiniSmoothArea.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/components/Charts/Radar.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/components/Charts/RankList.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/components/Charts/TagCloud.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/components/Charts/TransferBar.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/components/Charts/Trend.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/components/Charts/chart.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/components/Charts/smooth.area.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/components/CountDown/CountDown.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/components/CountDown/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/components/CountDown/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/components/DescriptionList/DescriptionList.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/components/DescriptionList/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/components/Editor/QuillEditor.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/components/Editor/WangEditor.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/components/Ellipsis/Ellipsis.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/components/Ellipsis/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/components/Ellipsis/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/components/Exception/ExceptionPage.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/components/Exception/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/components/Exception/type.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/components/FooterToolbar/FooterToolBar.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/components/FooterToolbar/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/components/FooterToolbar/index.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/components/FooterToolbar/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/components/GlobalFooter/GlobalFooter.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/components/GlobalFooter/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/components/GlobalHeader/GlobalHeader.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/components/GlobalHeader/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/components/IconSelector/IconSelector.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/components/IconSelector/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/components/IconSelector/icons.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/components/IconSelector/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/components/Menu/SideMenu.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/components/Menu/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/components/Menu/menu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/components/Menu/menu.render.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/components/MultiTab/MultiTab.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/components/MultiTab/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/components/MultiTab/index.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/components/NoticeIcon/NoticeIcon.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/components/NoticeIcon/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/components/NumberInfo/NumberInfo.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/components/NumberInfo/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/components/NumberInfo/index.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/components/NumberInfo/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/components/PageHeader/PageHeader.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/components/PageHeader/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/components/PageLoading/index.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/components/Result/Result.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/components/Result/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/components/SettingDrawer/SettingDrawer.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/components/SettingDrawer/SettingItem.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/components/SettingDrawer/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/components/SettingDrawer/settingConfig.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/components/SettingDrawer/themeColor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/components/StandardFormRow/StandardFormRow.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/components/StandardFormRow/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/components/Table/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/components/Table/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/components/TagSelect/TagSelectOption.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/components/TagSelect/index.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/components/Tree/Tree.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/components/Trend/Trend.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/components/Trend/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/components/Trend/index.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/components/Trend/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/components/_util/util.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/components/global.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/components/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/components/index.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/components/tools/Breadcrumb.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/components/tools/DetailList.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/components/tools/HeadInfo.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/components/tools/Logo.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/components/tools/TwoStepCaptcha.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/components/tools/UserMenu.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/components/tools/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/config/defaultSettings.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/config/router.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/core/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/core/directives/action.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/core/icons.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/core/lazy_lib/components_use.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/core/lazy_use.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/core/use.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/layouts/BasicLayout.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/layouts/BlankLayout.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/layouts/PageView.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/layouts/RouteView.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/layouts/UserLayout.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/layouts/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/mock/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/mock/services/article.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/mock/services/auth.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/mock/services/manage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/mock/services/other.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/mock/services/tagCloud.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/mock/services/user.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/mock/util.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/permission.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/router/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/router/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/store/getters.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/store/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/store/modules/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/store/modules/permission.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/store/modules/user.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/store/mutation-types.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/utils/axios.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/utils/device.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/utils/domUtil.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/utils/filter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/utils/helper/permission.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/utils/mixin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/utils/permissions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/utils/request.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/utils/storage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/utils/util.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/utils/utils.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/views/404.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/views/Home.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/views/account/center/Index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/views/account/center/page/App.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/views/account/center/page/Article.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/views/account/center/page/Project.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/views/account/center/page/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/views/account/settings/AvatarModal.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/views/account/settings/BaseSetting.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/views/account/settings/Binding.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/views/account/settings/Custom.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/views/account/settings/Index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/views/account/settings/Notification.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/views/account/settings/Security.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/views/dashboard/Analysis.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/views/dashboard/Monitor.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/views/dashboard/Workplace.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/views/exception/403.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/views/exception/404.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/views/exception/500.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/views/form/BasicForm.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/views/form/advancedForm/AdvancedForm.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/views/form/advancedForm/RepositoryForm.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/views/form/advancedForm/TaskForm.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/views/form/stepForm/Step1.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/views/form/stepForm/Step2.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/views/form/stepForm/Step3.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/views/form/stepForm/StepForm.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/views/list/CardList.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/views/list/QueryList.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/views/list/StandardList.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/views/list/TableList.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/views/list/modules/CreateForm.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/views/list/modules/StepByStepModal.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/views/list/modules/TaskForm.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/views/list/search/Applications.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/views/list/search/Article.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/views/list/search/Projects.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/views/list/search/SearchLayout.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/views/list/search/components/CardInfo.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/views/list/search/components/IconText.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/views/list/table/Edit.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/views/list/table/List.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/views/other/IconSelectorView.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/views/other/PermissionList.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/views/other/RoleList.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/views/other/TableInnerEditList.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/views/other/TreeList.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/views/other/UserList.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/views/other/modules/OrgModal.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/views/other/modules/RoleModal.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/views/profile/advanced/Advanced.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/views/profile/basic/Index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/views/result/Error.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/views/result/Success.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/views/role/RoleList.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/views/system/organization/modules/OrgModal.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/views/system/organization/organizationTable.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/views/system/resource/resourceTable.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/views/system/role/modules/RoleModal.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/views/system/role/roleTable.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/views/system/user/userTable.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/views/user/Login.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/views/user/Register.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/src/views/user/RegisterResult.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/tests/unit/.eslintrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/vue.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/webstorm.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal-ant-design/yarn.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/.env.development" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/.env.production" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/.env.staging" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/.eslintignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/.eslintrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/.github/FUNDING.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/.github/ISSUE_TEMPLATE/bug_report.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/.github/ISSUE_TEMPLATE/feature_request.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/.github/ISSUE_TEMPLATE/question.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/README.es.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/README.ja.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/README.zh-CN.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/babel.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/build/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/jest.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/mock/article.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/mock/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/mock/mock-server.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/mock/remote-search.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/mock/role/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/mock/role/routes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/mock/user.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/plop-templates/component/index.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/plop-templates/component/prompt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/plop-templates/utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/plop-templates/view/index.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/plop-templates/view/prompt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/plopfile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/postcss.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/App.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/api/article.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/api/login.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/api/pcaa.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/api/qiniu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/api/remote-search.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/api/role.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/api/system/common/dict.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/api/system/common/log.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/api/system/organization.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/api/system/resource.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/api/system/role.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/api/system/user.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/api/user.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/assets/401_images/401.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/assets/404_images/404.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/assets/404_images/404_cloud.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/assets/custom-theme/fonts/element-icons.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/assets/custom-theme/fonts/element-icons.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/assets/custom-theme/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/assets/images/login/background.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/assets/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/components/BackToTop/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/components/Background/bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/components/Background/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/components/Breadcrumb/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/components/Charts/Keyboard.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/components/Charts/LineMarker.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/components/Charts/MixChart.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/components/Charts/mixins/resize.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/components/DndList/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/components/DragSelect/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/components/Dropzone/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/components/ErrorLog/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/components/GithubCorner/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/components/Hamburger/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/components/HeaderSearch/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/components/ImageCropper/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/components/ImageCropper/utils/data2blob.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/components/ImageCropper/utils/effectRipple.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/components/ImageCropper/utils/language.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/components/ImageCropper/utils/mimes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/components/JsonEditor/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/components/Kanban/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/components/LangSelect/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/components/MDinput/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/components/MarkdownEditor/default-options.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/components/MarkdownEditor/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/components/Pagination/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/components/PanThumb/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/components/RightPanel/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/components/Screenfull/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/components/Share/DropdownMenu.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/components/SizeSelect/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/components/Sticky/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/components/SvgIcon/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/components/TextHoverEffect/Mallki.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/components/ThemePicker/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/components/Tinymce/components/EditorImage.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/components/Tinymce/dynamicLoadScript.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/components/Tinymce/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/components/Tinymce/plugins.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/components/Tinymce/toolbar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/components/Upload/SingleImage.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/components/Upload/SingleImage2.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/components/Upload/SingleImage3.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/components/Upload/singleVideo.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/components/Upload/uploadFile.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/components/UploadExcel/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/directive/clipboard/clipboard.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/directive/clipboard/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/directive/el-drag-dialog/drag.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/directive/el-drag-dialog/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/directive/el-table/adaptive.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/directive/el-table/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/directive/permission/hasAnyRoles/hasAnyRoles.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/directive/permission/hasAnyRoles/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/directive/permission/hasPermission/hasPermission.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/directive/permission/hasPermission/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/directive/permission/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/directive/permission/lacksPermission/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/directive/permission/lacksPermission/lacksPermission.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/directive/permission/lacksRoles/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/directive/permission/lacksRoles/lacksRoles.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/directive/permission/permission.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/directive/sticky.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/directive/waves/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/directive/waves/waves.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/directive/waves/waves.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/filters/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/icons/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/icons/svg/404.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/icons/svg/bug.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/icons/svg/chart.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/icons/svg/clipboard.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/icons/svg/component.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/icons/svg/dashboard.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/icons/svg/documentation.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/icons/svg/drag.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/icons/svg/edit.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/icons/svg/education.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/icons/svg/email.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/icons/svg/example.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/icons/svg/excel.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/icons/svg/exit-fullscreen.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/icons/svg/eye-open.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/icons/svg/eye.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/icons/svg/form.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/icons/svg/fullscreen.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/icons/svg/guide.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/icons/svg/icon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/icons/svg/international.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/icons/svg/language.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/icons/svg/link.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/icons/svg/list.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/icons/svg/lock.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/icons/svg/message.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/icons/svg/money.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/icons/svg/nested.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/icons/svg/password.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/icons/svg/pdf.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/icons/svg/people.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/icons/svg/peoples.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/icons/svg/qq.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/icons/svg/search.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/icons/svg/shopping.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/icons/svg/size.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/icons/svg/skill.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/icons/svg/star.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/icons/svg/system/caozuorizhi.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/icons/svg/system/jiaoseguanli.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/icons/svg/system/jichupeizhi.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/icons/svg/system/quanxianguanli.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/icons/svg/system/rizhiguanli.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/icons/svg/system/shujuzidian.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/icons/svg/system/timingtask.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/icons/svg/system/xitongguanli.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/icons/svg/system/xitongrizhi.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/icons/svg/system/yewuxitong.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/icons/svg/system/yonghuguanli.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/icons/svg/system/zuzhiguanli.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/icons/svg/tab.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/icons/svg/table.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/icons/svg/theme.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/icons/svg/tree-table.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/icons/svg/tree.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/icons/svg/user.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/icons/svg/wechat.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/icons/svg/zip.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/icons/svgo.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/lang/en.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/lang/es.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/lang/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/lang/zh.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/layout/components/AppMain.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/layout/components/Navbar.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/layout/components/Settings/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/layout/components/Sidebar/FixiOSBug.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/layout/components/Sidebar/Item.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/layout/components/Sidebar/Link.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/layout/components/Sidebar/Logo.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/layout/components/Sidebar/SidebarItem.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/layout/components/Sidebar/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/layout/components/TagsView/ScrollPane.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/layout/components/TagsView/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/layout/components/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/layout/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/layout/mixin/ResizeHandler.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/permission.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/router/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/router/modules/charts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/router/modules/components.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/router/modules/nested.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/router/modules/table.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/settings.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/store/getters.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/store/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/store/modules/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/store/modules/errorLog.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/store/modules/permission.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/store/modules/settings.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/store/modules/tagsView.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/store/modules/user.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/styles/btn.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/styles/element-ui.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/styles/element-variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/styles/index.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/styles/mixin.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/styles/sidebar.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/styles/transition.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/styles/variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/utils/auth.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/utils/clipboard.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/utils/error-log.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/utils/get-page-title.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/utils/i18n.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/utils/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/utils/open-window.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/utils/permission.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/utils/request.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/utils/scroll-to.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/utils/validate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/vendor/Export2Excel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/vendor/Export2Zip.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/views/dashboard/admin/components/BarChart.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/views/dashboard/admin/components/BoxCard.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/views/dashboard/admin/components/LineChart.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/views/dashboard/admin/components/PanelGroup.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/views/dashboard/admin/components/PieChart.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/views/dashboard/admin/components/RaddarChart.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/views/dashboard/admin/components/TodoList/Todo.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/views/dashboard/admin/components/TodoList/index.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/views/dashboard/admin/components/TodoList/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/views/dashboard/admin/components/TransactionTable.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/views/dashboard/admin/components/mixins/resize.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/views/dashboard/admin/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/views/dashboard/editor/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/views/dashboard/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/views/error-log/components/ErrorTestA.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/views/error-log/components/ErrorTestB.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/views/error-log/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/views/error-page/401.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/views/error-page/404.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/views/example/components/ArticleDetail.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/views/example/components/Dropdown/Comment.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/views/example/components/Dropdown/Platform.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/views/example/components/Dropdown/SourceUrl.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/views/example/components/Dropdown/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/views/example/components/Warning.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/views/example/create.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/views/example/edit.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/views/example/list.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/views/excel/components/AutoWidthOption.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/views/excel/components/BookTypeOption.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/views/excel/components/FilenameOption.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/views/excel/export-excel.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/views/excel/merge-header.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/views/excel/select-excel.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/views/excel/upload-excel.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/views/guide/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/views/guide/steps.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/views/login/auth-redirect.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/views/login/components/SocialSignin.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/views/login/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/views/nested.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/views/nested/menu1/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/views/nested/menu1/menu1-1/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/views/nested/menu1/menu1-2/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/views/nested/menu1/menu1-2/menu1-2-1/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/views/nested/menu1/menu1-2/menu1-2-2/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/views/nested/menu1/menu1-3/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/views/nested/menu2/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/views/permission/components/SwitchRoles.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/views/permission/directive.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/views/permission/page.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/views/permission/role.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/views/profile/components/Account.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/views/profile/components/Activity.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/views/profile/components/Timeline.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/views/profile/components/UserCard.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/views/profile/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/views/qiniu/upload.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/views/redirect/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/views/system/common/dict/dictTable.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/views/system/common/log/logTable.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/views/system/organization/organizationTable.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/views/system/resource/resourceTable.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/views/system/role/roleTable.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/views/system/user/userTable.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/views/tab/components/TabPane.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/views/tab/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/views/table/complex-table.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/views/table/drag-table.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/views/table/dynamic-table/components/FixedThead.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/views/table/dynamic-table/components/UnfixedThead.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/views/table/dynamic-table/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/views/table/inline-edit-table.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/views/theme/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/src/views/userCenter/userInfo.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/tests/unit/.eslintrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/tests/unit/components/Hamburger.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/tests/unit/components/SvgIcon.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/tests/unit/utils/formatTime.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/tests/unit/utils/parseTime.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/tests/unit/utils/validate.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-portal/vue.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-app/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-app/app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-app/app.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-app/colorui.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-app/icon.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-app/images/index/sign.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-app/images/tabbar/cart-selected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-app/images/tabbar/cart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-app/images/tabbar/category-selected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-app/images/tabbar/category.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-app/images/tabbar/home-selected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-app/images/tabbar/home.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-app/images/tabbar/member-selected.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-app/images/tabbar/member.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-app/pages/cart/cart.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-app/pages/cart/cart.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-app/pages/cart/cart.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-app/pages/cart/cart.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-app/pages/category/category.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-app/pages/category/category.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-app/pages/category/category.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-app/pages/category/category.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-app/pages/index/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-app/pages/index/index.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-app/pages/index/index.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-app/pages/index/index.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-app/pages/logs/logs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-app/pages/logs/logs.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-app/pages/logs/logs.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-app/pages/logs/logs.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-app/pages/member/member.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-app/pages/member/member.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-app/pages/member/member.wxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-app/pages/member/member.wxss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-app/project.config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-app/sitemap.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-app/utils/util.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/.babelrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/.eslintignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/.eslintrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/.postcssrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/build/build.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/build/check-versions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/build/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/build/utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/build/vue-loader.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/build/webpack.base.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/build/webpack.dev.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/build/webpack.prod.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/config/dev.env.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/config/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/config/prod.env.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/config/sit.env.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/App.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/api/common/common.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/api/login.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/api/qiniu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/api/register.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/assets/401_images/401.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/assets/404_images/404.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/assets/404_images/404_cloud.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/assets/custom-theme/fonts/element-icons.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/assets/custom-theme/fonts/element-icons.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/assets/custom-theme/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/assets/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/components/Background/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/components/SvgIcon/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/constants/mutationTypes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/constants/topicInfo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/constants/vueHtml5Editor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/directive/clipboard/clipboard.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/directive/clipboard/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/directive/el-dragDialog/drag.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/directive/el-dragDialog/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/directive/permission/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/directive/permission/permission.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/directive/sticky.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/directive/waves/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/directive/waves/waves.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/directive/waves/waves.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/errorLog.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/filters/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/icons/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/icons/svg/404.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/icons/svg/bug.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/icons/svg/chart.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/icons/svg/clipboard.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/icons/svg/component.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/icons/svg/dashboard.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/icons/svg/documentation.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/icons/svg/drag.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/icons/svg/edit.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/icons/svg/email.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/icons/svg/example.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/icons/svg/excel.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/icons/svg/eye.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/icons/svg/form.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/icons/svg/guide 2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/icons/svg/guide.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/icons/svg/icon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/icons/svg/index/appliances.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/icons/svg/index/cart.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/icons/svg/index/classification.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/icons/svg/index/clothing.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/icons/svg/index/group.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/icons/svg/index/index.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/icons/svg/index/kill.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/icons/svg/index/makeup.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/icons/svg/index/meizhuang.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/icons/svg/index/member.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/icons/svg/index/sign.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/icons/svg/index/super-market.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/icons/svg/index/tea.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/icons/svg/international.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/icons/svg/language.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/icons/svg/link.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/icons/svg/list.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/icons/svg/lock.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/icons/svg/message.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/icons/svg/money.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/icons/svg/nested.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/icons/svg/password.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/icons/svg/people.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/icons/svg/peoples.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/icons/svg/qq.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/icons/svg/shopping.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/icons/svg/size.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/icons/svg/star.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/icons/svg/tab.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/icons/svg/table.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/icons/svg/theme.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/icons/svg/tree.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/icons/svg/user.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/icons/svg/wechat.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/icons/svg/zip.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/icons/svgo.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/images/menu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/lang/en.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/lang/es.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/lang/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/lang/zh.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/mock/article.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/mock/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/mock/login.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/mock/remoteSearch.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/mock/transaction.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/permission.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/router/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/store/getters.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/store/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/store/modules/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/store/modules/errorLog.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/store/modules/permission.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/store/modules/tagsView.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/store/modules/user.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/styles/iconfont/iconfont.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/styles/index.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/styles/login.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/styles/menu.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/styles/register.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/styles/variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/utils/auth.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/utils/clipboard.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/utils/createUniqueString.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/utils/i18n.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/utils/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/utils/openWindow.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/utils/permission.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/utils/request.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/utils/richEditor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/utils/scrollTo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/utils/validate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/utils/vee-validate-zh_CN.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/vendor/Export2Excel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/vendor/Export2Zip.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/views/errorPage/401.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/views/errorPage/404.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/views/index/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/views/layout/Layout.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/views/layout/components/AppMain.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/views/layout/components/Navbar.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/views/layout/components/Sidebar/FixiOSBug.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/views/layout/components/Sidebar/Item.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/views/layout/components/Sidebar/Link.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/views/layout/components/Sidebar/SidebarItem.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/views/layout/components/Sidebar/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/views/layout/components/TagsView.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/views/layout/components/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/views/layout/mixin/ResizeHandler.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/views/login/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/views/member/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/views/oauth2.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/views/redirect/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jeebase/jeebase-wechat/jeebase-wechat-vant/src/views/register/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-learning-example/springboot-properties/springboot-properties.iml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-learning-example/springboot-properties/springboot-properties.iml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-725926303">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Industrial_Internet" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="D:/ChromeCoreDownloads/cas-5.3.11/support/cas-server-support-actions" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="F:\Maven\Maven-IEDA\Maven-Setting\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.25747126" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="00c2ea59-8428-4568-84ac-138e7a4474ce" name="Default Changelist" comment="" />
+      <created>1585534360886</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585534360886</updated>
+      <workItem from="1585534363329" duration="599000" />
+      <workItem from="1585555943179" duration="52000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="651000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17927383" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Statistic" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.25747126" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.25747126" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.25747126" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

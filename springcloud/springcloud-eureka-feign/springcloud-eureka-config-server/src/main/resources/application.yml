@@ -1,0 +1,34 @@
+server:
+  port: 8768
+
+server-eureka:
+  address-ip: 127.0.0.1
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://${server-eureka.address-ip}:9100/eureka/
+#    是否获取当前服务的信息
+    fetch-registry: true
+#    是否将自身注册到eureka
+    register-with-eureka: true
+  instance:
+    hostname: 127.0.0.1
+#注册到eureka时的service_id
+spring:
+  application:
+    name: config-server
+  cloud:
+    config:
+      server:
+        git:
+          ###git环境地址
+          uri: https://gitee.com/tianqingxin/springcloud_config.git
+          ####搜索目录
+          search-paths:
+          - springcloud_config
+          username: 18766170465@163.com
+          password: tqx18766170465
+      ####读取分支
+      label: master
+

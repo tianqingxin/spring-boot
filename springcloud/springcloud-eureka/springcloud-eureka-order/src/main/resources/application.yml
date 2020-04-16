@@ -1,0 +1,27 @@
+server:
+  port: 8800
+
+server-eureka:
+  address-ip: 127.0.0.1
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://${server-eureka.address-ip}:9000/eureka/,http://${server-eureka.address-ip}:9100/eureka/
+#    是否获取当前服务的信息
+    fetch-registry: true
+#    是否将自身注册到eureka
+    register-with-eureka: true
+  instance:
+    hostname: 127.0.0.1
+#    客户端发送心跳的间隔时间，默认为30s
+    lease-renewal-interval-in-seconds: 30
+#    最后一次心跳后等待多久后注册中心剔除该服务,默认90s
+    lease-expiration-duration-in-seconds: 90
+#注册到eureka时的service_id
+spring:
+  application:
+    name: eureka-order
+
+eureka-member:
+  url: http://eureka-member/getMember

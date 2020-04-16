@@ -1,0 +1,10 @@
+spring:
+  datasource:
+    url: jdbc:mysql://rm-m5eravyow76705i71eo.mysql.rds.aliyuncs.com:3306/my_test
+    username: tqx
+    password: 123456a!
+    driver-class-name: com.mysql.jdbc.Driver
+inspur:
+  self-defined:
+    userName: prod-tqx
+    username: 田庆新

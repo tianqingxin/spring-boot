@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/springcloud-eureka-config/springcloud-eureka-config.iml" filepath="$PROJECT_DIR$/springcloud-eureka-config/springcloud-eureka-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-eureka-config-server/springcloud-eureka-config-server.iml" filepath="$PROJECT_DIR$/springcloud-eureka-config-server/springcloud-eureka-config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-eureka-feign-parent/springcloud-eureka-feign-api/springcloud-eureka-feign-api.iml" filepath="$PROJECT_DIR$/springcloud-eureka-feign-parent/springcloud-eureka-feign-api/springcloud-eureka-feign-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-eureka-feign-parent/springcloud-eureka-feign-api/springcloud-eureka-feign-api-member-service/springcloud-eureka-feign-api-member-service.iml" filepath="$PROJECT_DIR$/springcloud-eureka-feign-parent/springcloud-eureka-feign-api/springcloud-eureka-feign-api-member-service/springcloud-eureka-feign-api-member-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-eureka-feign-parent/springcloud-eureka-feign-api/springcloud-eureka-feign-api-order-service/springcloud-eureka-feign-api-order-service.iml" filepath="$PROJECT_DIR$/springcloud-eureka-feign-parent/springcloud-eureka-feign-api/springcloud-eureka-feign-api-order-service/springcloud-eureka-feign-api-order-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-eureka-feign-parent/springcloud-eureka-feign-common/springcloud-eureka-feign-common.iml" filepath="$PROJECT_DIR$/springcloud-eureka-feign-parent/springcloud-eureka-feign-common/springcloud-eureka-feign-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-eureka-feign-parent/springcloud-eureka-feign-manager/springcloud-eureka-feign-manager.iml" filepath="$PROJECT_DIR$/springcloud-eureka-feign-parent/springcloud-eureka-feign-manager/springcloud-eureka-feign-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-eureka-feign-parent/springcloud-eureka-feign-common/springcloud-eureka-feign-member-common/springcloud-eureka-feign-member-common.iml" filepath="$PROJECT_DIR$/springcloud-eureka-feign-parent/springcloud-eureka-feign-common/springcloud-eureka-feign-member-common/springcloud-eureka-feign-member-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-eureka-feign-parent/springcloud-eureka-feign-manager/springcloud-eureka-feign-member-service-impl/springcloud-eureka-feign-member-service-impl.iml" filepath="$PROJECT_DIR$/springcloud-eureka-feign-parent/springcloud-eureka-feign-manager/springcloud-eureka-feign-member-service-impl/springcloud-eureka-feign-member-service-impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-eureka-feign-parent/springcloud-eureka-feign-common/springcloud-eureka-feign-order-common/springcloud-eureka-feign-order-common.iml" filepath="$PROJECT_DIR$/springcloud-eureka-feign-parent/springcloud-eureka-feign-common/springcloud-eureka-feign-order-common/springcloud-eureka-feign-order-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-eureka-feign-parent/springcloud-eureka-feign-manager/springcloud-eureka-feign-order-service-impl/springcloud-eureka-feign-order-service-impl.iml" filepath="$PROJECT_DIR$/springcloud-eureka-feign-parent/springcloud-eureka-feign-manager/springcloud-eureka-feign-order-service-impl/springcloud-eureka-feign-order-service-impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-eureka-feign-parent/springcloud-eureka-feign-parent.iml" filepath="$PROJECT_DIR$/springcloud-eureka-feign-parent/springcloud-eureka-feign-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-eureka-gateway/springcloud-eureka-gateway.iml" filepath="$PROJECT_DIR$/springcloud-eureka-gateway/springcloud-eureka-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-eureka-server/springcloud-eureka-server.iml" filepath="$PROJECT_DIR$/springcloud-eureka-server/springcloud-eureka-server.iml" />
+    </modules>
+  </component>
+</project>

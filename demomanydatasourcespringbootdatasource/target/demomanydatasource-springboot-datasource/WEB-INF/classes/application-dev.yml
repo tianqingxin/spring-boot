@@ -1,0 +1,51 @@
+spring:
+  datasource:
+    ###会员数据库
+    member:
+      url: jdbc:mysql://rm-m5eravyow76705i71eo.mysql.rds.aliyuncs.com:3306/member
+      username: tqx
+      password: 123456a!
+      borrowConnectionTimeout: 30
+      loginTimeout: 30
+      maintenanceInterval: 60
+      maxIdleTime: 60
+      maxLifetime: 20000
+      maxPoolSize: 25
+      minPoolSize: 3
+      uniqueResourceName: memberDatasource
+    ###订单数据库
+    order:
+      url: jdbc:mysql://rm-m5eravyow76705i71eo.mysql.rds.aliyuncs.com:3306/order
+      username: tqx
+      password: 123456a!
+      borrowConnectionTimeout: 30
+      loginTimeout: 30
+      maintenanceInterval: 60
+      maxIdleTime: 60
+      maxLifetime: 20000
+      maxPoolSize: 25
+      minPoolSize: 3
+      uniqueResourceName: orderDatasource
+
+      #spring:
+      #  datasource:
+      #    member:
+      #      jdbc-url: jdbc:mysql://rm-m5eravyow76705i71eo.mysql.rds.aliyuncs.com:3306/member
+      #      username: tqx
+      #      password: 123456a!
+      #      driver-class-name: com.mysql.jdbc.Driver
+      #    order:
+      #      jdbc-url: jdbc:mysql://rm-m5eravyow76705i71eo.mysql.rds.aliyuncs.com:3306/order
+      #      username: tqx
+      #      password: 123456a!
+      #      driver-class-name: com.mysql.jdbc.Driver
+inspur:
+  selfDefined:
+    userName: dev-tqx
+    username: 田庆新
+
+#修改项目的端口号和上下文
+server:
+  port: 8089
+  servlet:
+    context-path: /app

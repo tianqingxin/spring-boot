@@ -1,0 +1,20 @@
+server:
+  port: 9100
+
+eureka:
+  client:
+    service-url:
+#      其他集群节点的地址，多个集群以,隔开
+      defaultZone: http://127.0.0.1:9000/eureka/
+#    \u662F\u5426\u83B7\u53D6\u5F53\u524D\u670D\u52A1\u7684\u4FE1\u606F
+    fetch-registry: true
+#    \u662F\u5426\u5C06\u81EA\u8EAB\u6CE8\u518C\u5230eureka
+    register-with-eureka: true
+  instance:
+    hostname: 127.0.0.1
+  server:
+    enable-self-preservation: true
+#\u6CE8\u518C\u5230eureka\u6CE8\u518C\u4E2D\u5FC3\u7684service_id
+spring:
+  application:
+    name: eureka-server

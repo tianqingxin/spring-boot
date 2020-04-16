@@ -1,0 +1,1308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="09e58599-d6e1-4019-a0b7-42de61c33a0d" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/springcloud-eureka-server/target/" />
+    <ignored path="$PROJECT_DIR$/springcloud-eureka-feign-parent/target/" />
+    <ignored path="$PROJECT_DIR$/springcloud-eureka-feign-parent/springcloud-eureka-feign-api/target/" />
+    <ignored path="$PROJECT_DIR$/springcloud-eureka-feign-parent/springcloud-eureka-feign-api/springcloud-eureka-feign-api-member-service/target/" />
+    <ignored path="$PROJECT_DIR$/springcloud-eureka-feign-parent/springcloud-eureka-feign-api/springcloud-eureka-feign-api-order-service/target/" />
+    <ignored path="$PROJECT_DIR$/springcloud-eureka-feign-parent/springcloud-eureka-feign-manager/target/" />
+    <ignored path="$PROJECT_DIR$/springcloud-eureka-feign-parent/springcloud-eureka-feign-common/target/" />
+    <ignored path="$PROJECT_DIR$/springcloud-eureka-feign-parent/springcloud-eureka-feign-manager/springcloud-eureka-feign-api-member-service-impl/target/" />
+    <ignored path="$PROJECT_DIR$/springcloud-eureka-feign-parent/springcloud-eureka-feign-manager/springcloud-eureka-feign-order-service-impl/target/" />
+    <ignored path="$PROJECT_DIR$/springcloud-eureka-feign-parent/springcloud-eureka-feign-common/springcloud-eureka-feign-member-common/target/" />
+    <ignored path="$PROJECT_DIR$/springcloud-eureka-feign-parent/springcloud-eureka-feign-common/springcloud-eureka-feign-order-common/target/" />
+    <ignored path="$PROJECT_DIR$/springcloud-eureka-feign-parent/springcloud-eureka-feign-manager/springcloud-eureka-feign-member-service-impl/target/" />
+    <ignored path="$PROJECT_DIR$/springcloud-eureka-gateway/target/" />
+    <ignored path="$PROJECT_DIR$/springcloud-eureka-config/target/" />
+    <ignored path="$PROJECT_DIR$/springcloud-eureka-config-server/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="193733669">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="16" />
+          <entry key="project.open.time.0" value="3" />
+          <entry key="project.open.time.1" value="3" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.23" value="1" />
+          <entry key="project.open.time.24" value="2" />
+          <entry key="project.open.time.28" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.36" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="18" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="9" />
+          <entry key="html" value="1" />
+          <entry key="java" value="58" />
+          <entry key="properties" value="4" />
+          <entry key="xml" value="29" />
+          <entry key="yml" value="19" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="9" />
+          <entry key="HTML" value="1" />
+          <entry key="JAVA" value="58" />
+          <entry key="Properties" value="4" />
+          <entry key="XML" value="29" />
+          <entry key="YAML" value="19" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="70" />
+          <entry key="java" value="2702" />
+          <entry key="xml" value="70" />
+          <entry key="yml" value="448" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="70" />
+          <entry key="JAVA" value="2702" />
+          <entry key="XML" value="70" />
+          <entry key="YAML" value="448" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springcloud-eureka-gateway/src/main/resources/bootstrap.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springcloud-eureka-server/src/main/resources/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springcloud-eureka-feign-parent/springcloud-eureka-feign-common/springcloud-eureka-feign-member-common/src/main/java/com/inspur/entity/member/MemberEntity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springcloud-eureka-feign-parent/springcloud-eureka-feign-manager/springcloud-eureka-feign-member-service-impl/src/main/java/com/inspur/api/service/impl/MemberServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1290">
+              <caret line="55" column="63" selection-start-line="55" selection-start-column="63" selection-end-line="55" selection-end-column="63" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/springcloud-eureka-feign-parent/springcloud-eureka-feign-manager/springcloud-eureka-feign-member-service-impl/src/main/java/com/inspur/api/util/EntityUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="181">
+              <caret line="31" column="20" lean-forward="true" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#542#543#0" expanded="true" />
+                <element signature="e#599#600#0" expanded="true" />
+                <element signature="e#762#763#0" expanded="true" />
+                <element signature="e#806#807#0" expanded="true" />
+                <element signature="e#847#848#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springcloud-eureka-gateway/src/main/java/com/inspur/SpringcloudEurekaGatewayApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springcloud-eureka-server/src/main/java/com/inspur/SpringcloudEurekaServerApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+              <folding>
+                <element signature="e#439#440#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springcloud-eureka-feign-parent/springcloud-eureka-feign-manager/springcloud-eureka-feign-member-service-impl/src/main/java/com/inspur/MemberApp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="15" column="42" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springcloud-eureka-feign-parent/springcloud-eureka-feign-manager/springcloud-eureka-feign-member-service-impl/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springcloud-eureka-feign-parent/springcloud-eureka-feign-manager/springcloud-eureka-feign-order-service-impl/src/main/java/com/inspur/OrderApp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="D:/ChromeCoreDownloads/cas-5.3.11/support/cas-server-support-actions" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/springcloud-eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud-eureka-feign-parent/springcloud-eureka-feign-api/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud-eureka-server/src/main/java/com/inspur/SpringcloudEurekaServerApplication.java" />
+        <option value="$PROJECT_DIR$/springcloud-eureka-server/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/springcloud-eureka-feign-parent/springcloud-eureka-feign-manager/springcloud-eureka-feign-member-service-impl/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud-eureka-feign-parent/springcloud-eureka-feign-api/springcloud-eureka-feign-api-member-service/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud-eureka-feign-parent/springcloud-eureka-feign-common/springcloud-eureka-feign-member-common/src/main/java/com/inspur/entity/member/MemberEntity.java" />
+        <option value="$PROJECT_DIR$/springcloud-eureka-feign-parent/springcloud-eureka-feign-manager/springcloud-eureka-feign-order-service-impl/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud-eureka-feign-parent/springcloud-eureka-feign-common/springcloud-eureka-feign-member-common/src/main/java/com/inspur/base/BaseApiService.java" />
+        <option value="$PROJECT_DIR$/springcloud-eureka-feign-parent/springcloud-eureka-feign-api/springcloud-eureka-feign-api-member-service/src/main/java/com/inspur/api/service/member/IMemberService.java" />
+        <option value="$PROJECT_DIR$/springcloud-eureka-feign-parent/springcloud-eureka-feign-manager/springcloud-eureka-feign-order-service-impl/src/main/java/com/inspur/fallback/HystrixFallBack.java" />
+        <option value="$PROJECT_DIR$/springcloud-eureka-feign-parent/springcloud-eureka-feign-manager/springcloud-eureka-feign-order-service-impl/src/main/java/com/inspur/feign/MemberServiceFeign.java" />
+        <option value="$PROJECT_DIR$/springcloud-eureka-gateway/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/springcloud-eureka-config/src/main/java/com/inspur/SpringcloudEurekaConfigApplication.java" />
+        <option value="$PROJECT_DIR$/springcloud-eureka-config-server/src/main/java/com/inspur/SpringcloudEurekaConfigServerApplication.java" />
+        <option value="$PROJECT_DIR$/springcloud-eureka-config-server/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/springcloud-eureka-config/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/springcloud-eureka-config/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/springcloud-eureka-config/src/main/java/com/inspur/config/client/ConfigClient.java" />
+        <option value="$PROJECT_DIR$/springcloud-eureka-config/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud-eureka-gateway/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/springcloud-eureka-feign-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud-eureka-feign-parent/springcloud-eureka-feign-manager/springcloud-eureka-feign-member-service-impl/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/springcloud-eureka-feign-parent/springcloud-eureka-feign-manager/springcloud-eureka-feign-order-service-impl/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/springcloud-eureka-feign-parent/springcloud-eureka-feign-manager/springcloud-eureka-feign-order-service-impl/src/main/java/com/inspur/OrderApp.java" />
+        <option value="$PROJECT_DIR$/springcloud-eureka-feign-parent/springcloud-eureka-feign-manager/springcloud-eureka-feign-order-service-impl/src/main/java/com/inspur/api/order/impl/OrderServiceImpl.java" />
+        <option value="$PROJECT_DIR$/springcloud-eureka-gateway/src/main/java/com/inspur/filter/TokenFilter.java" />
+        <option value="$PROJECT_DIR$/springcloud-eureka-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud-eureka-gateway/src/main/java/com/inspur/SpringcloudEurekaGatewayApplication.java" />
+        <option value="$PROJECT_DIR$/springcloud-eureka-gateway/src/main/java/com/inspur/swagger/DocumentationConfig.java" />
+        <option value="$PROJECT_DIR$/springcloud-eureka-server/src/main/resources/index.html" />
+        <option value="$PROJECT_DIR$/springcloud-eureka-feign-parent/springcloud-eureka-feign-manager/springcloud-eureka-feign-member-service-impl/src/main/java/com/inspur/MemberApp.java" />
+        <option value="$PROJECT_DIR$/springcloud-eureka-feign-parent/springcloud-eureka-feign-manager/springcloud-eureka-feign-member-service-impl/src/main/java/com/inspur/api/service/impl/MemberServiceImpl.java" />
+        <option value="$PROJECT_DIR$/springcloud-eureka-feign-parent/springcloud-eureka-feign-manager/springcloud-eureka-feign-member-service-impl/src/main/java/com/inspur/api/util/EntityUtil.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="F:\Maven\Maven-IEDA\Maven-Setting\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <autoscrollFromSource ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="springcloud-eureka-feign" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud-eureka-feign-parent" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud-eureka-feign" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud-eureka-feign-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-eureka-feign-common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud-eureka-feign" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud-eureka-feign-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-eureka-feign-common" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-eureka-feign-member-common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud-eureka-feign" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud-eureka-feign-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-eureka-feign-common" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-eureka-feign-member-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud-eureka-feign" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud-eureka-feign-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-eureka-feign-common" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-eureka-feign-order-common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud-eureka-feign" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud-eureka-feign-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-eureka-feign-common" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-eureka-feign-order-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud-eureka-feign" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud-eureka-feign-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-eureka-feign-manager" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud-eureka-feign" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud-eureka-feign-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-eureka-feign-manager" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-eureka-feign-member-service-impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud-eureka-feign" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud-eureka-feign-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-eureka-feign-manager" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-eureka-feign-member-service-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud-eureka-feign" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud-eureka-feign-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-eureka-feign-manager" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-eureka-feign-member-service-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud-eureka-feign" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud-eureka-feign-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-eureka-feign-manager" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-eureka-feign-member-service-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud-eureka-feign" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud-eureka-feign-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-eureka-feign-manager" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-eureka-feign-member-service-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud-eureka-feign" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud-eureka-feign-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-eureka-feign-manager" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-eureka-feign-member-service-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="inspur" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud-eureka-feign" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud-eureka-feign-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-eureka-feign-manager" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-eureka-feign-member-service-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="inspur" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud-eureka-feign" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud-eureka-feign-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-eureka-feign-manager" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-eureka-feign-member-service-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="inspur" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud-eureka-feign" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud-eureka-feign-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-eureka-feign-manager" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-eureka-feign-member-service-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="inspur" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud-eureka-feign" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud-eureka-feign-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-eureka-feign-manager" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-eureka-feign-member-service-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="inspur" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud-eureka-feign" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud-eureka-feign-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-eureka-feign-manager" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-eureka-feign-member-service-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud-eureka-feign" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud-eureka-feign-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-eureka-feign-manager" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-eureka-feign-order-service-impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud-eureka-feign" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud-eureka-feign-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-eureka-feign-manager" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-eureka-feign-order-service-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud-eureka-feign" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud-eureka-feign-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-eureka-feign-manager" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-eureka-feign-order-service-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud-eureka-feign" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud-eureka-feign-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-eureka-feign-manager" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-eureka-feign-order-service-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud-eureka-feign" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud-eureka-feign-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-eureka-feign-manager" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-eureka-feign-order-service-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud-eureka-feign" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud-eureka-feign-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-eureka-feign-manager" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-eureka-feign-order-service-impl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="inspur" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud-eureka-feign" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud-eureka-gateway" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud-eureka-feign" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud-eureka-gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud-eureka-feign" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud-eureka-gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud-eureka-feign" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud-eureka-gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud-eureka-feign" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud-eureka-gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud-eureka-feign" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud-eureka-gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="inspur" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud-eureka-feign" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud-eureka-gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud-eureka-feign" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud-eureka-server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud-eureka-feign" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud-eureka-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud-eureka-feign" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud-eureka-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud-eureka-feign" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud-eureka-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud-eureka-feign" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud-eureka-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud-eureka-feign" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud-eureka-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="inspur" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud-eureka-feign" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud-eureka-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="springcloud-eureka-feign" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1586775346942" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/springcloud-eureka-config-server/pom.xml" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.25747126" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\springbootWorkSpace\springcloud\springcloud-eureka-feign\springcloud-eureka-config-server\src\main\resources" />
+      <recent name="C:\springbootWorkSpace\springcloud\springcloud-eureka-feign\springcloud-eureka-config\src\main\resources" />
+      <recent name="C:\springbootWorkSpace\springcloud\springcloud-eureka-feign\springcloud-eureka-gateway\src\main\resources" />
+      <recent name="C:\springbootWorkSpace\springcloud\springcloud-eureka-feign\springcloud-eureka-feign-parent\springcloud-eureka-feign-common\springcloud-eureka-feign-member-common\src\main\java\com\inspur\base" />
+      <recent name="C:\springbootWorkSpace\springcloud\springcloud-eureka-feign\springcloud-eureka-feign-parent\springcloud-eureka-feign-manager\springcloud-eureka-feign-order-service-impl\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.MemberApp">
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MemberApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" singleton="false" temporary="true" nameIsGenerated="true">
+      <module name="springcloud-eureka-feign-member-service-impl" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.inspur.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.inspur.MemberApp" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="springcloud-eureka-feign-order-service-impl" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.inspur.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.inspur.OrderApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringcloudEurekaConfigApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springcloud-eureka-config" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.inspur.SpringcloudEurekaConfigApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringcloudEurekaConfigServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springcloud-eureka-config-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.inspur.SpringcloudEurekaConfigServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringcloudEurekaGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" singleton="false">
+      <module name="springcloud-eureka-gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.inspur.SpringcloudEurekaGatewayApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringcloudEurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springcloud-eureka-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.inspur.SpringcloudEurekaServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.SpringcloudEurekaServerApplication" />
+      <item itemvalue="Spring Boot.SpringcloudEurekaGatewayApplication" />
+      <item itemvalue="Spring Boot.SpringcloudEurekaConfigApplication" />
+      <item itemvalue="Spring Boot.SpringcloudEurekaConfigServerApplication" />
+      <item itemvalue="Spring Boot.MemberApp" />
+      <item itemvalue="Spring Boot.OrderApp" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.MemberApp" />
+        <item itemvalue="Spring Boot.OrderApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="09e58599-d6e1-4019-a0b7-42de61c33a0d" name="Default Changelist" comment="" />
+      <created>1586099405755</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586099405755</updated>
+      <workItem from="1586099409774" duration="90000" />
+      <workItem from="1586099524896" duration="56000" />
+      <workItem from="1586099609320" duration="223000" />
+      <workItem from="1586099856883" duration="4346000" />
+      <workItem from="1586263686561" duration="7323000" />
+      <workItem from="1586333030207" duration="51000" />
+      <workItem from="1586333092730" duration="5644000" />
+      <workItem from="1586348862531" duration="1636000" />
+      <workItem from="1586392891988" duration="7135000" />
+      <workItem from="1586514341542" duration="2820000" />
+      <workItem from="1586653134404" duration="8958000" />
+      <workItem from="1586738949400" duration="2752000" />
+      <workItem from="1586825123793" duration="844000" />
+      <workItem from="1586869517873" duration="417000" />
+      <workItem from="1586870667977" duration="1587000" />
+      <workItem from="1586912179291" duration="832000" />
+      <workItem from="1586955678157" duration="656000" />
+      <workItem from="1586997593166" duration="768000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="46138000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21785174" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32935154" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.8774584" weight="0.36006826" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32935154" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Statistic" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32935154" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.12254161" side_tool="true" weight="0.3993174" />
+      <window_info anchor="bottom" id="Spring" order="12" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.32935154" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.24205749" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22541603" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32935154" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.66211605" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32935154" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Statistic" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32935154" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Spring" order="12" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.32935154" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.24205749" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/springcloud-eureka-feign-parent/springcloud-eureka-feign-api/springcloud-eureka-feign-api-order-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-eureka-feign-parent/springcloud-eureka-feign-manager/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-eureka-feign-parent/springcloud-eureka-feign-common/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" column="37" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-eureka-feign-parent/springcloud-eureka-feign-manager/springcloud-eureka-feign-api-member-service-impl/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/springcloud-eureka-feign-parent/springcloud-eureka-feign-common/springcloud-eureka-feign-order-common/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-eureka-server/src/main/resources/application.properties" />
+    <entry file="file://$PROJECT_DIR$/springcloud-eureka-server/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-eureka-server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="54" column="11" selection-start-line="54" selection-start-column="11" selection-end-line="54" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-eureka-feign-parent/springcloud-eureka-feign-common/springcloud-eureka-feign-member-common/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="11" column="67" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-eureka-feign-parent/springcloud-eureka-feign-api/springcloud-eureka-feign-api-member-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.12/lombok-1.18.12.jar!/lombok/RequiredArgsConstructor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-10">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/jakarta/validation/jakarta.validation-api/2.0.2/jakarta.validation-api-2.0.2.jar!/javax/validation/constraints/NotNull.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-eureka-feign-parent/springcloud-eureka-feign-manager/springcloud-eureka-feign-order-service-impl/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-eureka-feign-parent/springcloud-eureka-feign-common/springcloud-eureka-feign-member-common/src/main/java/com/inspur/base/ResponseBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="7" column="6" lean-forward="true" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-eureka-feign-parent/springcloud-eureka-feign-common/springcloud-eureka-feign-member-common/src/main/java/com/inspur/base/BaseApiService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/netflix/ribbon/ribbon/2.3.0/ribbon-2.3.0.jar!/com/netflix/ribbon/proxy/annotation/Hystrix.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-eureka-feign-parent/springcloud-eureka-feign-manager/springcloud-eureka-feign-order-service-impl/src/main/java/com/inspur/feign/MemberServiceFeign.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="3" column="43" selection-start-line="3" selection-start-column="43" selection-end-line="3" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-eureka-gateway/src/main/resources/application.properties" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-zuul/2.2.2.RELEASE/spring-cloud-netflix-zuul-2.2.2.RELEASE.jar!/org/springframework/cloud/netflix/zuul/filters/ZuulProperties.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="139" column="73" lean-forward="true" selection-start-line="139" selection-start-column="73" selection-end-line="139" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-eureka-feign-parent/springcloud-eureka-feign-manager/springcloud-eureka-feign-order-service-impl/src/main/java/com/inspur/fallback/MemberServiceFallBack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-eureka-feign-parent/springcloud-eureka-feign-api/springcloud-eureka-feign-api-member-service/src/main/java/com/inspur/api/service/member/IMemberService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/netflix/zuul/zuul-core/1.3.1/zuul-core-1.3.1.jar!/com/netflix/zuul/context/RequestContext.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="94" column="29" selection-start-line="94" selection-start-column="11" selection-end-line="94" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-eureka-config/src/main/resources/application.properties" />
+    <entry file="file://$PROJECT_DIR$/springcloud-eureka-config-server/src/main/resources/application.properties" />
+    <entry file="file://$PROJECT_DIR$/springcloud-eureka-config/src/main/java/com/inspur/SpringcloudEurekaConfigApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-eureka-config/src/main/java/com/inspur/config/client/ConfigClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-eureka-config/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="32" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-eureka-config/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1680">
+          <caret line="56" column="21" selection-start-line="52" selection-start-column="8" selection-end-line="56" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-eureka-config-server/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="930">
+          <caret line="31" column="14" selection-start-line="31" selection-start-column="14" selection-end-line="31" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-eureka-config-server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="24" column="63" selection-start-line="24" selection-start-column="63" selection-end-line="24" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-eureka-feign-parent/springcloud-eureka-feign-manager/springcloud-eureka-feign-member-service-impl/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-eureka-feign-parent/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="426">
+          <caret line="55" selection-start-line="55" selection-end-line="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/swagger/swagger-annotations/1.5.14/swagger-annotations-1.5.14.jar!/io/swagger/annotations/ApiOperation.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/swagger/swagger-annotations/1.5.14/swagger-annotations-1.5.14.jar!/io/swagger/annotations/ApiImplicitParams.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/swagger/swagger-annotations/1.5.14/swagger-annotations-1.5.14.jar!/io/swagger/annotations/ApiImplicitParam.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-280">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-eureka-feign-parent/springcloud-eureka-feign-manager/springcloud-eureka-feign-order-service-impl/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="39" column="28" selection-start-line="39" selection-start-column="28" selection-end-line="39" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-eureka-feign-parent/springcloud-eureka-feign-manager/springcloud-eureka-feign-order-service-impl/src/main/java/com/inspur/api/order/impl/OrderServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="37" column="51" selection-start-line="37" selection-start-column="51" selection-end-line="37" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-eureka-gateway/src/main/java/com/inspur/filter/TokenFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="17" column="12" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-eureka-gateway/src/main/java/com/inspur/swagger/DocumentationConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="832">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-eureka-config-server/src/main/java/com/inspur/SpringcloudEurekaConfigServerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="77">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-eureka-gateway/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1800">
+          <caret line="60" selection-start-line="60" selection-end-line="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-eureka-gateway/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-eureka-server/src/main/resources/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-eureka-feign-parent/springcloud-eureka-feign-common/springcloud-eureka-feign-member-common/src/main/java/com/inspur/entity/member/MemberEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-eureka-feign-parent/springcloud-eureka-feign-manager/springcloud-eureka-feign-member-service-impl/src/main/java/com/inspur/api/service/impl/MemberServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1290">
+          <caret line="55" column="63" selection-start-line="55" selection-start-column="63" selection-end-line="55" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-eureka-gateway/src/main/java/com/inspur/SpringcloudEurekaGatewayApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-eureka-server/src/main/java/com/inspur/SpringcloudEurekaServerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#439#440#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-eureka-feign-parent/springcloud-eureka-feign-manager/springcloud-eureka-feign-member-service-impl/src/main/java/com/inspur/MemberApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="15" column="42" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-eureka-feign-parent/springcloud-eureka-feign-manager/springcloud-eureka-feign-member-service-impl/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-eureka-feign-parent/springcloud-eureka-feign-manager/springcloud-eureka-feign-order-service-impl/src/main/java/com/inspur/OrderApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-eureka-feign-parent/springcloud-eureka-feign-manager/springcloud-eureka-feign-member-service-impl/src/main/java/com/inspur/api/util/EntityUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="31" column="20" lean-forward="true" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#542#543#0" expanded="true" />
+            <element signature="e#599#600#0" expanded="true" />
+            <element signature="e#762#763#0" expanded="true" />
+            <element signature="e#806#807#0" expanded="true" />
+            <element signature="e#847#848#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.25747126" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.25747126" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.25747126" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.25747126" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

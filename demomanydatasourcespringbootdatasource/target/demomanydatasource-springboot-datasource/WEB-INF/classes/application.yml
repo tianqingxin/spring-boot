@@ -1,0 +1,21 @@
+spring:
+  profiles:
+    active: dev
+
+  #spring:
+      #  datasource:
+      #    member:
+      #      jdbc-url: jdbc:mysql://rm-m5eravyow76705i71eo.mysql.rds.aliyuncs.com:3306/member
+      #      username: tqx
+      #      password: 123456a!
+      #      driver-class-name: com.mysql.jdbc.Driver
+      #    order:
+      #      jdbc-url: jdbc:mysql://rm-m5eravyow76705i71eo.mysql.rds.aliyuncs.com:3306/order
+      #      username: tqx
+      #      password: 123456a!
+      #      driver-class-name: com.mysql.jdbc.Driver
+
+inspur:
+  selfDefined:
+    userName: tqx
+    username: 田庆新

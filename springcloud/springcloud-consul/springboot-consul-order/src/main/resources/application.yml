@@ -1,0 +1,17 @@
+server:
+  port: 8025
+#服务的上下文，当注册到eureka注册中心时，则为服务的service_id
+spring:
+  application:
+    name: consul-order
+  cloud:
+    consul:
+      discovery:
+        #        是使用ip地址，如果不写它，默认是域名，那样测试起来很麻烦。
+        prefer-ip-address: true
+        #        consul做健康检查的路径,必须写
+        healthCheckPath: /consul/health
+        hostname: 192.168.50.1
+      #      consul注册中心的地址和端口号
+      host: localhost
+      port: 8500
